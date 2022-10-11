@@ -1,0 +1,16 @@
+{
+  "name": "8-sentencesmash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sentenceSmash.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
