@@ -8,7 +8,7 @@
     "test:watch": "jest --watchAll"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mariangelica Rodriguez",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.0.3"

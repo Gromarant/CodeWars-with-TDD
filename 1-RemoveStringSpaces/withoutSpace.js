@@ -1,9 +1,3 @@
-// Simple, remove the spaces from the string, then return the resultant string.
-//  const withoutSpace = ( array ) => {
-//     let removeStringSpaces = array.replaceAll( ' ', '');
-//     return removeStringSpaces;
-//  };
-
 const withoutSpace = ( array ) => array.split( ' ' ).join('');
 
 
