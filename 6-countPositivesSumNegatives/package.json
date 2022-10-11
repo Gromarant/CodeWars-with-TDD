@@ -1,0 +1,16 @@
+{
+  "name": "6-countpositivessumnegatives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countPositivesSumNegatives.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
