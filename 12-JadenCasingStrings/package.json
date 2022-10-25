@@ -1,0 +1,16 @@
+{
+  "name": "12-jadencasingstrings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JadenCasingStrings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
