@@ -1,0 +1,17 @@
+{
+  "name": "14-transportationonvacation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transportationOnVacation.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "jest": "^29.2.2"
+  }
+}
