@@ -1,0 +1,16 @@
+{
+  "name": "17-sumarrays2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumArrays2.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
