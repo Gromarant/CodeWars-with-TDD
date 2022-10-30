@@ -1,0 +1,16 @@
+{
+  "name": "19-oppositnumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oppositNumber.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
