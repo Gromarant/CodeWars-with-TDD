@@ -1,0 +1,15 @@
+{
+  "name": "18-numberofpeopleinthebus",
+  "version": "1.0.0",
+  "description": "codewards exercise with TDD",
+  "main": "numberOfPeopleInTheBus.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
