@@ -1,0 +1,15 @@
+{
+  "name": "20-youonlyneedonebeginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youOnlyNeedOneBeginner.js",
+  "scripts": {
+    "test:watch": "jest --watchAll",
+    "test": "jest"
+  },
+  "author": "Marienagelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
