@@ -1,0 +1,15 @@
+{
+  "name": "24-countthedivisorsofanumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countTheDivisorsOfANumber.js",
+  "scripts": {
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
