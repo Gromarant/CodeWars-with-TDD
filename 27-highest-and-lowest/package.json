@@ -1,0 +1,16 @@
+{
+  "name": "27--highest-and-lowest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "highestAndLowest.js",
+  "scripts": {
+    "test:watch": "jest --watchAll",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
