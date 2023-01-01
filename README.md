@@ -12,6 +12,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Simple, remove the spaces from the string, then return the resultant string.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/1-RemoveStringSpaces) | 
   [Go to Codewars](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
   </p>
   </details>
@@ -24,6 +25,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling.
   You get given the time in hours and you need to return the number of litres Nathan will drink, rounded to the smallest value.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/2-KeepHydrated) | 
   [Go to Codewars](https://www.codewars.com/kata/582cb0224e56e068d800003c)
 
   ##### For example:
@@ -45,6 +47,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   We need a function that can transform a string into a number. What ways of achieving this do you know?
   Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/3-stringToNumber) | 
   [Go to Codewars](https://www.codewars.com/kata/544675c6f971f7399a000e79)
 
   ##### For example:
@@ -63,6 +66,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Your task is to make two functions ( max and min, or maximum and minimum, etc., depending on the language ) that receive a list of integers as input, and return the largest and lowest number in that list, respectively.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/4-findMaxAndMin) | 
   [Go to Codewars](https://www.codewars.com/kata/577a98a6ae28071780000989)
 
   ##### For example:
@@ -87,6 +91,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   - If both characters are the same case, return 1
   - If both characters are letters, but not the same case, return 0
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/5-CheckSameCase) | 
   [Go to Codewars](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)
 
   ##### For example:
@@ -109,6 +114,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   Return an array, where the first element is the count of positives numbers and the second element is sum of negative numbers. 0 is neither positive nor negative.
   If the input is an empty array or is null, return an empty array.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/6-countPositivesSumNegatives) | 
   [Go to Codewars](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 
   ##### For example:
@@ -125,6 +131,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   Your classmates asked you to copy some paperwork for them. You know that there are 'n' classmates and the paperwork has 'm' pages.
   Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 return 0.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/7-SchoolPaperwork) | 
   [Go to Codewars](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
 
   ##### For example:
@@ -141,6 +148,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Write a function that takes an array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence!
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/8-sentenceSmash) | 
   [Go to Codewars](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 
   ##### For example:
@@ -156,6 +164,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Code as fast as you can! You need to double the integer and return it.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/9-underPressure) | 
   [Go to Codewars](https://www.codewars.com/kata/53ee5429ba190077850011d4)
 
   </p>
@@ -169,6 +178,7 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   [Make sure you type the exact thing I wrote or the program may not execute properly]
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/10-returningStrings) | 
   [Go to Codewars](https://www.codewars.com/kata/55a70521798b14d4750000a4)
 
   </p>
@@ -182,6 +192,7 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   Our team's match results are recorded in a collection of strings. Each match is represented by a string in the format "x:y", where x is our team's score and y is our opponents score.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/11-totalAmountOfPoints) | 
   [Go to Codewars](https://www.codewars.com/kata/5bb904724c47249b10000131)
 
   Points are awarded for each match as follows:
@@ -210,6 +221,7 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/12-JadenCasingStrings) | 
   [Go to Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
   ##### For example:
@@ -226,6 +238,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/13-stringEndsWith) | 
   [Go to Codewars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 
   ##### For example:
@@ -247,6 +260,7 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   Write a code that gives out the total amount for different days(d).
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/14-transportationOnVacation) | 
   [Go to Codewars](https://www.codewars.com/kata/568d0dd208ee69389d000016)
 
   </p>
@@ -258,6 +272,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Write function bmi that calculates body mass index (bmi = weight / height2).
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/15-calculateBMI) | 
   [Go to Codewars](https://www.codewars.com/kata/57a429e253ba3381850000fb)
 
   ##### For example:
@@ -276,6 +291,8 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. If the array does not contain any numbers then you should return 0.
 
+  [Go to exercise 16 repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/16-sumArrays) | 
+  [Go to exercise 17 repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/17-sumArrays2) | 
   [Go to Codewars](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 
   ##### For example:
@@ -310,6 +327,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   Please keep in mind that the test cases ensure that the number of people in the bus is always >= 0. So the return integer can't be negative.
   The second value in the first integer array is 0, since the bus is empty in the first bus stop.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/18-numberOfPeopleInTheBus) | 
   [Go to Codewars](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 
   </p>
@@ -321,6 +339,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   Very simple, given an integer or a floating-point number, find its opposite.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/19-oppositNumber) | 
   [Go to Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 
   ##### For example:
@@ -340,6 +359,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   Array can contain numbers or strings. X can be either.
   Return true if the array contains the value, false if not.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/20-youOnlyNeedOneBeginner) | 
   [Go to Codewars](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 
   </p>
@@ -353,6 +373,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   Write a function which takes a list of strings and returns each line prepended by the correct number.
   The numbering starts at 1. The format is n: string. Notice the colon and space in between.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/21-testing1-2-3) | 
   [Go to Codewars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 
   ##### For example:
@@ -371,6 +392,7 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/22-oppositesAttract) | 
   [Go to Codewars](https://www.codewars.com/kata/555086d53eac039a2a000083)
 
   </p>
@@ -385,6 +407,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Task:
   Write a function that returns both the minimum and maximum number of the given list/array.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/23-theHighestProfitWins) | 
   [Go to Codewars](https://www.codewars.com/kata/559590633066759614000063)
 
   ##### For example:
@@ -407,6 +430,7 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   Random tests go up to n = 500000.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/24-countTheDivisorsOfANumber) | 
   [Go to Codewars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
 
   ##### For example:
@@ -441,6 +465,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   You can find a factor by dividing numbers. If the remainder is 0 then the number is a factor.
   You can use the mod operator (%) in most languages to check for a remainder
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/25-grassHopper-CheckForFactor) | 
   [Go to Codewars](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
 
   ##### For example:
@@ -461,6 +486,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   - Champions
   Complete the function to return his total number of goals in all three leagues.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/26-grassHopper-MessiGoalsFunction) | 
   [Go to Codewars](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
 
   #### Note:
@@ -479,6 +505,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   #### Description:
   In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/27-highest-and-lowest) | 
   [Go to Codewars](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
   ##### For example:
