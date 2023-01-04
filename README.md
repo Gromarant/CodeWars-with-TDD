@@ -520,3 +520,15 @@ A collection of Codewars exercises with differents programming lenguages and too
   - Output string must be two numbers separated by a single space, and highest number is first.
   </p>
   </details>
+
+- <details><summary>28. Is it a palindrome?</summary>
+  <p>
+
+  #### Description:
+  Write a function that checks if a given string (case insensitive) is a palindrome.
+
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/28-is-it-a-palindrome) | 
+  [Go to Codewars](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
+
+  </p>
+  </details>
