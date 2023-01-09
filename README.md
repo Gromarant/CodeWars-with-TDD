@@ -532,3 +532,18 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   </p>
   </details>
+
+- <details><summary>29. Sort and Star</summary>
+  <p>
+
+  #### Description:
+  You will be given a list of strings. You must sort it alphabetically (case-sensitive, and based on the ASCII values of the chars) and then return the first value.
+
+  The returned value must be a string, and have "***" between each of its letters.
+  You should not remove or add elements from/to the array.
+
+  [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/29-sort-and-start) | 
+  [Go to Codewars](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
+
+  </p>
+  </details>
