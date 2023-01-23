@@ -558,10 +558,6 @@ A collection of Codewars exercises with differents programming lenguages and too
 
   Assume the test input string is always a valid string. For example, the test input may be "1 year old" or "5 years old". The first character in the string is always a number.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> inProgress
   [Go to exercise repo](https://github.com/Gromarant/CodeWars-with-TDD/tree/main/Javascript%2BNode.js-Jest/30-Parse-nice-int-from-char-problem) | 
   [Go to Codewars](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 
