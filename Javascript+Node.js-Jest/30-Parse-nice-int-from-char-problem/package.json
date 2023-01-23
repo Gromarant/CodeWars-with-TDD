@@ -1,0 +1,17 @@
+{
+  "name": "30-parse-nice-int-from-char-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parseNiceInt.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
