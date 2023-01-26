@@ -1,0 +1,16 @@
+{
+  "name": "31-rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RockPaperScissors.js",
+  "scripts": {
+    "test:watch": "jest --watchAll",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Mariangelica Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
