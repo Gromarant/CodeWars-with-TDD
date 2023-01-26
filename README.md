@@ -564,7 +564,7 @@ A collection of Codewars exercises with differents programming lenguages and too
   </p>
   </details>
 
-  - <details><summary>31. Rock Paper Scissors!</summary>
+- <details><summary>31. Rock Paper Scissors!</summary>
   <p>
 
   #### Description:
